@@ -19,12 +19,6 @@ This repository will contain the source code and documentation for the computer 
 
 The source code and additional documentation for this project will be uploaded shortly. Please check back for updates.
 
-## Citation
-
-If you use this work in your research, please cite our paper:
-
-[Citation information will be added upon publication]
-
 ## Contact
 
-For any questions or inquiries about this research, please contact [Your Name] at [Your Email].
+For any questions or inquiries about this research, please contact Qiyu Liao at qiyu.liao@csiro.au.
